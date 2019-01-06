@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Moded Roller",
+"dataUrl": "Moded-Roller.data.unityweb",
+"wasmCodeUrl": "Moded-Roller.wasm.code.unityweb",
+"wasmFrameworkUrl": "Moded-Roller.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
